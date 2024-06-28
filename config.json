@@ -1,6 +1,6 @@
 {
     "token": "",
-    "prefix": "gen!",
+    "prefix": "=",
     "genChannel": "",
     "genCooldown": "1000",
     "color": {
